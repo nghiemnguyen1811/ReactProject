@@ -1,4 +1,4 @@
-# Fullstack-Project
+# Social networking website
 
 Install and run
 Open Terminal, run node.js and npm start
