@@ -1,10 +1,10 @@
 # Fullstack-Project
 
-##Install and run
+Install and run
 Open Terminal, run node.js and npm start
 The web app will run on localhost:3000
 
-##Describe all screens in the application
+Describe all screens in the application
 - Registration interface
 ![image](https://user-images.githubusercontent.com/91676983/162398598-f66ff03e-44b8-4fbc-88ca-051d47ce0728.png)
 
